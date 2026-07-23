@@ -78,7 +78,8 @@ The project uses multiple related E-Commerce tables:
 - Product Categories
 - Reviews
 - Sellers
-
+- Geolocation
+  
 Large datasets are hosted externally due to GitHub file size limitations.
 
 ### 📁 Raw Data
@@ -135,7 +136,7 @@ Python was used to explore the E-Commerce dataset and understand important patte
 - Delivery performance
 - Data visualization
 
-Python libraries used include **Pandas** and **Matplotlib**.
+Python libraries used include **Numpy**,**Pandas** and **Matplotlib**.
 
 ---
 
