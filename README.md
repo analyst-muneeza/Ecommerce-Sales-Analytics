@@ -136,7 +136,7 @@ Python was used to explore the E-Commerce dataset and understand important patte
 - Delivery performance
 - Data visualization
 
-Python libraries used include **Numpy**,**Pandas** and **Matplotlib**.
+Python libraries used include **Pandas** and **Matplotlib**.
 
 ---
 
