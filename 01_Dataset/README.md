@@ -17,10 +17,12 @@ Dataset after data cleaning and preprocessing.
 [View Ecommerce Clean Data](https://docs.google.com/spreadsheets/d/1TNzgZnrpwoWxeGk1lv0huPLmLOFJJ6U6/edit?usp=sharing&ouid=108936610654920574751&rtpof=true&sd=true)
 
 ### 3. Final E-Commerce Dataset
-Final prepared dataset used for analysis and dashboard development.
+Final dataset exported after Python analysis and data processing.
 
 [View Final Ecommerce Dataset](https://drive.google.com/file/d/1M_Tu9oDps2RapPSDrjKPIYBpdfkqAVvq/view?usp=sharing)
 
 ## Project Workflow
 
-Raw Data → Data Cleaning → Final Dataset → Python & SQL Analysis → Power BI Dashboard
+Raw Data → Excel Data Cleaning → Clean Dataset → SQL Analysis → Python Analysis → Power BI Dashboard
+
+**Note:** The Clean Dataset was used as the primary dataset for SQL, Python, and Power BI analysis. The Final E-Commerce Dataset is the processed dataset exported from Python after analysis.
