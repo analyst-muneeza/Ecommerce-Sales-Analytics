@@ -4,7 +4,6 @@ Python was used to perform exploratory data analysis (EDA) on the cleaned E-Comm
 
 ## Libraries Used
 
-- Numpy
 - Pandas
 - Matplotlib
 
